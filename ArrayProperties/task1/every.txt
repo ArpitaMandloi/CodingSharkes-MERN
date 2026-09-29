@@ -1,0 +1,29 @@
+1. Check if All Numbers Are Positive
+Given a list of numbers, check if all numbers are positive.
+Example:
+Input: [1, 2, 3, 4]
+Output: True
+
+2. Check if All Words Start with the Same Letter
+Given a list of words, check if all words start with the letter 'a'.
+Example:
+Input: ["apple", "avocado", "apricot"]
+Output: True
+
+3. Check if All Numbers Are Even
+Given a list of numbers, check if all numbers are even.
+Example:
+Input: [2, 4, 6, 8]
+Output: True
+
+4. Check if All Words Are Palindromic
+Given a list of words, check if all words are palindromic.
+Example:
+Input: ["madam", "level", "racecar"]
+Output: True
+
+5. Check if All Elements in List Are Unique
+Given a list of elements, check if all elements are unique.
+Example:
+Input: [1, 2, 3, 4]
+Output: True

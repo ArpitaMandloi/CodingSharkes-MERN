@@ -1,0 +1,13 @@
+body {
+  background: aqua;
+  padding: 0;
+  margin: 0;
+}
+
+.section {
+  background-color: white;
+  margin: 20px;
+  padding: 0;
+  height : 500px;
+  width: 800px;
+}

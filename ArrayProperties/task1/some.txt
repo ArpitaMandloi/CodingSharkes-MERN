@@ -1,0 +1,29 @@
+1. Check if There Is Any Negative Number
+Given a list of numbers, check if there is at least one negative number.
+Example:
+Input: [3, 5, -1, 4]
+Output: True
+
+2. Check if Any Word Contains the Letter 'z'
+Given a list of words, check if any word contains the letter 'z'.
+Example:
+Input: ["apple", "banana", "zebra"]
+Output: True
+
+3. Check if There Is Any Odd Number
+Given a list of numbers, check if there is at least one odd number.
+Example:
+Input: [2, 4, 6, 9]
+Output: True
+
+4. Check if Any Number Is Divisible by 5
+Given a list of numbers, check if any number is divisible by 5.
+Example:
+Input: [3, 12, 20, 7]
+Output: True
+
+5. Check if Any Word Is Longer Than 10 Characters
+Given a list of words, check if any word has more than 10 characters.
+Example:
+Input: ["apple", "strawberry", "blueberry"]
+Output: True 

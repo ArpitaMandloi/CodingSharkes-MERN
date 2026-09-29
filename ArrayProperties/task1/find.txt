@@ -1,0 +1,29 @@
+1. Find the First Even Number
+Given a list of numbers, find the first even number.
+Example:
+Input: [1, 3, 7, 4, 5]
+Output: 4
+
+2. Find the First Word Longer Than 5 Characters
+Given a list of words, find the first word that is longer than 5 characters.
+Example:
+Input: ["apple", "banana", "kiwi", "grapefruit"]
+Output: "banana"
+
+3. Find the First Negative Number
+Given a list of numbers, find the first negative number.
+Example:
+Input: [4, 2, -3, -1, 5]
+Output: -3
+
+4. Find the First Palindromic Word
+Given a list of words, find the first word that is a palindrome.
+Example:
+Input: ["apple", "level", "banana", "civic"]
+Output: "level"
+
+5. Find the First Prime Number
+Given a list of numbers, find the first prime number.
+Example:
+Input: [4, 6, 9, 7, 10]
+Output: 7

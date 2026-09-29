@@ -1,0 +1,40 @@
+// 1. push() and pop()
+// a) Write a function to implement a stack using push() and pop().Add numbers 10, 20, and 30 to the stack, then remove the topmost element.
+// b) Use push() to add three new items to an existing array of fruits.Then use pop() twice and log the removed elements.
+
+// 2. shift() and unshift()
+// a) Write a function that uses shift() to remove the first item from an array and unshift() to add two new items at the beginning.
+// b) Create an array of numbers.Remove the first number using shift() and add 100 and 200 to the front using unshift().
+
+// 3. slice()
+// a) Create an array of 10 elements.Extract the middle 4 elements using slice() and log the result.
+// b) Given an array of names, use slice() to create a new array that includes only the first 3 names.
+
+// 4. splice()
+// a) Create an array of colors.Use splice() to add two colors in the middle of the array.
+// b) Remove 3 items from an array starting at index 2 using splice() and log the modified array.
+// c) Replace two elements in an array with new values using splice().
+
+// 5. sort()
+// a) Sort an array of numbers[45, 2, 19, 8, 32] in ascending order.
+// b) Sort an array of strings["banana", "apple", "cherry", "date"] in alphabetical order.
+
+// 6. reverse()
+// a) Reverse an array of numbers[1, 2, 3, 4, 5] and log the result.
+// b) Reverse an array of words and join them to form a sentence.
+
+// 7. concat()
+// a) Concatenate two arrays[1, 2, 3] and[4, 5, 6] and log the result.
+// b) Merge three arrays: fruits, vegetables, and grains.
+
+// 8. join()
+// a) Create an array of words["Coding", "is", "fun"].Join them into a single string with spaces in between.
+// b) Convert an array of letters["H", "E", "L", "L", "O"] into a word using join().
+
+// 9. indexOf()
+// a) Find the index of the number 42 in an array[15, 42, 7, 19].
+// b) Check if the name "John" exists in an array of names using indexOf().
+
+// 10. lastIndexOf()
+// a) Find the last occurrence of the number 5 in [5, 2, 5, 8, 5].
+// b) Write a function to return the index of the last occurrence of a specified element in an array.

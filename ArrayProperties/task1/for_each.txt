@@ -1,0 +1,49 @@
+1. Write a program that prints each element of the given array using forEach().
+let numbers = [5, 10, 15, 20, 25];
+Output:
+  5
+  10
+  15
+  20
+  25
+
+2. Modify the program to print both the index and the value of each element.
+let fruits = ["Apple", "Banana", "Mango"];
+Output:
+  Index 0: Apple
+  Index 1: Banana
+  Index 2: Mango
+
+3. Modify each element in the given array to be twice its original value using forEach().
+let numbers = [2, 4, 6, 8];
+Output:
+  [4, 8, 12, 16]
+
+4. Write a program that counts the even and odd numbers in an array using forEach().
+let numbers = [1, 2, 3, 4, 5, 6];
+Output:
+  Even Numbers: 3
+  Odd Numbers: 3
+
+5. Write a program that converts all names in the given array to uppercase using forEach().
+let names = ["john", "mary", "peter"];
+Output:
+  ["JOHN", "MARY", "PETER"]
+
+6. Given an array of students, add a new property "status" with the value "pass" if marks are 50 or above, otherwise "fail".
+let students = [
+    { name: "Amit", marks: 85 },
+    { name: "Rahul", marks: 45 },
+    { name: "Priya", marks: 72 }
+];
+Output:
+  [
+      { "name": "Amit", "marks": 85, "status": "pass" },
+      { "name": "Rahul", "marks": 45, "status": "fail" },
+      { "name": "Priya", "marks": 72, "status": "pass" }
+  ]
+
+7. Write a program that calculates the sum of all elements in an array using forEach().
+let numbers = [10, 20, 30, 40];
+Output:
+  Sum: 100

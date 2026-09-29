@@ -1,0 +1,29 @@
+1. Sum of All Numbers
+   Given a list of numbers, use reduce to find the sum of all the numbers.
+   Example:
+   Input: [1, 2, 3, 4, 5]
+   Output: 15
+
+2. Product of All Numbers
+   Given a list of numbers, use reduce to find the product of all the numbers.
+   Example:
+   Input: [1, 2, 3, 4]
+   Output: 24
+
+3. Find the Maximum Number
+   Given a list of numbers, use reduce to find the maximum number.
+   Example:
+   Input: [4, 5, 1, 9, 2]
+   Output: 9
+
+4. Concatenate All Strings
+   Given a list of strings, use reduce to concatenate them into a single string.
+   Example:
+   Input: ["hello", "world"]
+   Output: "helloworld"
+
+5. Count the Total Number of Characters
+   Given a list of words, use reduce to calculate the total number of characters across all words.
+   Example:
+   Input: ["apple", "banana", "kiwi"]
+   Output: 15

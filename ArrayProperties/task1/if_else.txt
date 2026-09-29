@@ -1,0 +1,18 @@
+1. Write a program to check if a number is positive, negative, or zero.
+2. 1) Let us write our first program based on conditions. Write a program to input user age and check if he is eligible to vote in India or not. A person in India is eligible to vote if he is 18+.
+3. Write a program to find the largest of three numbers.
+4. Write a program to check if a number is even or odd.
+5. Write a program to check if a year is a leap year.
+6. Write a program to check if a number is divisible by both 3 and 5.
+7. Write a program to check if a number is a palindrome 
+8. Write a program that checks whether a character is a vowel or consonant.
+9. Write a program that checks whether a number is prime.
+10. Write a program that finds the smallest of three numbers.
+11. Write a program that assigns a grade based on marks:
+A: 90-100
+B: 70-89
+C: 50-69
+D: 40-49
+F: Below 40
+12. Write a program to check if a number is a perfect number (sum of divisors equals the number).
+13. Write a program that checks if a character is uppercase or lowercase.
